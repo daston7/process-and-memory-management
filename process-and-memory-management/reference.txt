@@ -1,0 +1,14 @@
+We acknolwedge the use of ChatGPT [https://chat.openai.com/] to assist us in generating the Queue library, .gitignore and MakeFile
+
+We entered the following prompt:
+"Please generate a Queue library for a process queue in C"
+"Please give an example of a MakeFile format"
+"Please generate a .gitignore"
+
+Although ChatGPT helped us in generating the format and structure, 
+we modified the content by ourselves to suit the project specifications
+
+Modification:
+Queue Library = We incorporate the Queue library and change it to be connected with our Process library
+.gitignore = No changes made
+MakeFile = Changes made so all of the libraries would successfully compiled
